@@ -1,0 +1,26 @@
+html {
+  background-color: black;
+  font-family: Verdana;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+}
+.title {
+  font-size: 50px;
+}
+.subtitle {
+  font-size: 42px;
+}
+.description {
+  font-size: 21px;
+  color: gray;
+}
+a {
+  color: Aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
+.trademark {
+  text-align: right;
+  color: gray;
+}
